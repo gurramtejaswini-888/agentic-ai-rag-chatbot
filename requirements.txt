@@ -1,0 +1,9 @@
+langgraph
+langchain-text-splitters
+pinecone
+pypdf
+fastapi
+uvicorn
+python-dotenv
+pydantic
+google-genai
